@@ -1,2 +1,2 @@
 # Arclight
-A rogue light Dungon Crawler
+A rogue lite Dungon Crawler
